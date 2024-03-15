@@ -4,7 +4,7 @@ This Java program reads a text file, counts the occurrences of each word, and di
 
 
 
-## Usage 
+## Instructions
 
 Input File: Provide the path to the input text file in the filePath variable inside the WordCountFromFile.java file.
 
