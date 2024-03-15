@@ -4,15 +4,21 @@ This Java program reads a text file, counts the occurrences of each word, and di
 
 
 
-## Instructions
+## Instructions for Running and Testing the Java Program:
 
-Input File: Provide the path to the input text file in the filePath variable inside the WordCountFromFile.java file.
+1. Clone the repository to your local machine using the command:
+- git clone repository_link
+2. Navigate to the directory containing the Java program.
+3. Open the WordCountFromFile.java file and update the filePath variable with the path to your input text file.
+4. Compile the Java file using the Java compiler:
+- javac WordCountFromFile.java
+5. Run the compiled Java program:
+  - java WordCountFromFile
+6. Verify that the word counts are displayed correctly according to the input text file.
 
-Compile: Compile the Java file using the Java compiler. Example: javac WordCountFromFile.java.
-
-Run: Run the compiled Java program. Example: java WordCountFromFile.
-
-
+7. Optionally, modify the input text file or test with different input files to verify the program's robustness.
+    
+  
 ## Functionality
 - Reads the content of the specified text file.
 - Counts the occurrences of each word.
